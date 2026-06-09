@@ -146,6 +146,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Made with ❤️ by Manus AI for the open-source community**
+**Made with ❤️ by Me  for the open-source community**
 
 ⭐ If you find Kakhoot useful, please consider giving it a star on GitHub! ⭐
